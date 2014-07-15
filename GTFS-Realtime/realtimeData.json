@@ -1,0 +1,13 @@
+{
+    "message": {
+        "header": {
+            "timestamp": 0,
+            "gtfs_realtime_version": "1.0"
+        },
+        "entities": [
+        ]
+    },
+    "generationTime": 0,
+    "numberOfRoutes": 0,
+    "numberOfVehicles": 0
+}
