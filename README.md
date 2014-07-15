@@ -5,6 +5,9 @@ LeBus
 
 Le Bus Tracker, an application developed for the [Yale Entrepreneurial Institute](http://yei.yale.edu/)'s NewHaven++ hackathon. Shoutout to the awesome team with [newhaven.io](http://www.newhaven.io/).
 
+Here's the mobile design: [Screenshot](https://raw.githubusercontent.com/bdice/LeBus/master/img/screenshot.png)
+It's iOS web app friendly, too: [Home Screen](https://raw.githubusercontent.com/bdice/LeBus/master/img/homescreen.png)
+
 Contributors:
 =============
 Bradley Dice, [@Bradley_Dice](https://twitter.com/Bradley_Dice)
